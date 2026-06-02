@@ -1,5 +1,5 @@
 rm main.py
-clear                                                                                                                                                                    
+clear                                                                                                                                                                   
 dir 
 ls                                                                                          
 git status
@@ -13,3 +13,5 @@ git remote add origin https://github.com/anshika08mishra/github-for-devops.git
 git remote -v 
 git remote set-url origin https://{TOkenurl}@github.com/anshika08mishra/github-f...
 git push origin master 
+
+added 
